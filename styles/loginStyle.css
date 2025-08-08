@@ -6,5 +6,19 @@
 
 .login-panel{
     -fx-background-color: black;
-    -fx-opacity: 0.6;
+    -fx-opacity: 0.75;
+}
+
+.login-button{
+    -fx-background-color: #0e008d; 
+    -fx-background-radius: 12px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px;
+}
+
+.login-button:hover{
+    -fx-background-color: #0a0066;
+    -fx-font-weight: italic;
 }
