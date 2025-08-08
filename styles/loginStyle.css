@@ -1,0 +1,12 @@
+
+.left-side{
+    -fx-background-color:linear-gradient(to top left, #e5ff00, #3d3c3c);
+    -fx-border-color:#000000;
+    -fx-border-width:.4px 0px .4px .4px;
+}
+
+.right-side{
+    -fx-background-color:linear-gradient(to bottom, #bcbea9, #3d3c3c);
+    -fx-border-color:#000000;
+    -fx-border-width:.4px .4px .4px .0px;
+}
