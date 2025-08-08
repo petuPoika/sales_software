@@ -1,12 +1,10 @@
-
-.left-side{
-    -fx-background-color:linear-gradient(to top left, #e5ff00, #3d3c3c);
-    -fx-border-color:#000000;
-    -fx-border-width:.4px 0px .4px .4px;
+.bottom-side{
+    -fx-background-image: url(../img/login_background.jpeg);
+    -fx-background-size: 100% 100%;
+    -fx-background-position: center center;
 }
 
-.right-side{
-    -fx-background-color:linear-gradient(to bottom, #bcbea9, #3d3c3c);
-    -fx-border-color:#000000;
-    -fx-border-width:.4px .4px .4px .0px;
+.login-panel{
+    -fx-background-color: black;
+    -fx-opacity: 0.6;
 }
